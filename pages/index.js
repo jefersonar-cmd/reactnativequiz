@@ -24,7 +24,7 @@ export default function Home() {
   return (
     <QuizBackground backgroundImage={db.bg}>
       <Head>
-        <meta property="og:image" content="https://wallpapercave.com/wp/wp4923981.jpg" />
+        <meta name="og:image" content="https://wallpapercave.com/wp/wp4923981.jpg" />
       </Head>
       <QuizContainer>
       <QuizLogo />
